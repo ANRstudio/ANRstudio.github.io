@@ -1,7 +1,6 @@
 OWNERDOMAIN = http://ANRstudio.github.io
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
-Remember to replace the OwnerDomain Line with your domain. 
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager
+ironsrc.com, 640e9f9f, Direct
+
 
 
 
